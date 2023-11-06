@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ESP8266 Data Display</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>ESP8266 Data Display</h1>
+    <p id="data">Aguardando dados do ESP8266...</p>
+
+    <script>
+        function updateData(data) {
+            document.getElementById('data').innerText = 'Dados recebidos: ' + data;
+        }
+    </script>
+</body>
+</html>
