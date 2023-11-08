@@ -15,5 +15,5 @@ Antes de usar o código, certifique-se de ajustar as configurações no código-
 1. Clone o repositório para o seu ambiente de desenvolvimento.
 
    ```bash
-   git clone https://github.com/Projeto Integrador/esp8266-web-data-sender.git
+   git clone https://github.com/nayaKSS12/PROJETO-INTEGRADOR-.git
 
