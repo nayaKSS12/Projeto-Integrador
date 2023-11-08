@@ -5,10 +5,7 @@ Este é um projeto simples para o ESP8266 que envia dados para um servidor web u
 
 ## Configuração
 
-Antes de usar o código, certifique-se de ajustar as configurações no código-fonte:
-
-1. Substitua `CONECTADO` e `C@necTa0!` pelas informações da sua rede Wi-Fi.
-2. Substitua `projetomecm3.netlify.app` pelo URL do seu servidor web.
+ `projetomecm3.netlify.app` 
 
 ## Instalação
 
